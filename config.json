@@ -1,0 +1,10 @@
+{
+    "discord_token": "BOT_TOKEN",
+    "command_prefix": "!",
+    "twitch_clientid": "TWİTCH_DEVELOPER_CONSOLDAN_CLİENT_ID",
+    "twitch_clientsecret": "TWİTCH_DEVELOPER_CONSOLDAN_CLİENT_SECRET",
+    "users": [
+        "streamer listesi"
+    ],
+    "saniye": 60
+}
