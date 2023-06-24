@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ForGameProgrammer",
-  "license": "ISC",
+  "author": "Lazutti",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^12.2.0",
     "twitch": "^4.0.9"
