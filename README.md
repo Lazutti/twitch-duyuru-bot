@@ -1,3 +1,3 @@
 # twitch-duyuru-bot
 
-İyi kullanımlar
+`config.json` kısmını doldurun ve ardından kullanıma başlayın.
